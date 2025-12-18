@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Inventário Local",
+  "description": "Uma aplicação para gerenciamento de entrada e saída de itens (Patrimônio e Carga) com gestão de setores e histórico, rodando localmente no navegador.",
+  "requestFramePermissions": []
+}
